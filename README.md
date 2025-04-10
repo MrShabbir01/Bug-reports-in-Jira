@@ -14,7 +14,6 @@ These reports demonstrate standard practices in identifying, documenting, and tr
 - Environment details (OS, device, browser/app version)
 - Steps to reproduce
 - Expected vs. actual behavior
-- Attachments (e.g., screenshots, logs)
 - Priority and severity level
 - Status and resolution
 
